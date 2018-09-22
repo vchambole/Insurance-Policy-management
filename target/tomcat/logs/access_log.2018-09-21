@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:30:36 +0530] "GET /login HTTP/1.1" 200 546 http-bio-8080-exec-1 374
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:30:52 +0530] "GET /signUp HTTP/1.1" 404 949 http-bio-8080-exec-2 15
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:30:59 +0530] "GET /login HTTP/1.1" 200 546 http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:31:01 +0530] "GET /signUp HTTP/1.1" 404 949 http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:31:26 +0530] "GET /signUp HTTP/1.1" 404 949 http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:32:01 +0530] "GET /signUp HTTP/1.1" 404 949 http-bio-8080-exec-6 15
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:32:43 +0530] "GET /login HTTP/1.1" 200 546 http-bio-8080-exec-7 1529
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:32:46 +0530] "GET /signup HTTP/1.1" 200 1516 http-bio-8080-exec-8 93
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:35:27 +0530] "GET /signup HTTP/1.1" 200 1527 http-bio-8080-exec-10 78
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:35:51 +0530] "GET /signup HTTP/1.1" 200 1516 http-bio-8080-exec-10 62
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:36:32 +0530] "GET /signup HTTP/1.1" 200 1508 http-bio-8080-exec-10 64
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:56:35 +0530] "GET /signup HTTP/1.1" 200 1508 http-bio-8080-exec-4 78
+0:0:0:0:0:0:0:1 - - [21/Sep/2018:12:57:03 +0530] "GET /signup?email=vinod%40gmail.com&password=1234&password-repeat=1234&role=admin HTTP/1.1" 200 1508 http-bio-8080-exec-4 16
